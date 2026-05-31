@@ -57,6 +57,16 @@ Nietzsche pulls the rug on the projects of his predecessors...
 > elaborate metaphysics → God is dead。
 ```
 
+## 效果展示
+
+### 标注概览：全篇结构标注后的 Obsidian 阅读视图
+
+![标注效果概览](images/annotation-example-1.png)
+
+### 论证骨架图：Mermaid 流程图重构全文逻辑链
+
+![论证骨架图](images/annotation-example-2.png)
+
 ## 文件结构
 
 ```
